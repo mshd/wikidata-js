@@ -1,0 +1,15 @@
+{
+  "name": "wikidata-js",
+  "version": "0.0.1",
+  "description": "Wikidata for Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Schibel",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "wikibase-sdk": "^7.6.0"
+  }
+}

@@ -9,7 +9,7 @@
   "author": "M Schibel",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "wikibase-sdk": "^7.6.0"
   }
 }
